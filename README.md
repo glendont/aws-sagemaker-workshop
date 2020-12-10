@@ -3,10 +3,9 @@ Materials for Pre-hackathon workshop for NTU SCSE Computing Challenge 2021 on AW
 
 ## Presenter
 
-* Glendon Thaiw, AWS ([GitHub](https://github.com/glendont) | [LinkedIn](https://www.linkedin.com/in/glendonthaiw/))
-
 * Shannon Lim, AWS ([GitHub](https://github.com/glendont) | [LinkedIn](https://www.linkedin.com/in/shannonlim/))
 
+* Glendon Thaiw, AWS ([GitHub](https://github.com/glendont) | [LinkedIn](https://www.linkedin.com/in/glendonthaiw/))
 
 ## Resources
 
