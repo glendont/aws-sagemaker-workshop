@@ -17,4 +17,6 @@ Materials for Pre-hackathon workshop for NTU SCSE Computing Challenge 2021 on AW
 
 * [Common Data Formats for SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/cdf-training.html)
 
+* [What exactly is an API?](https://www.youtube.com/watch?v=cpRcK4GS068&ab_channel=ProgrammableWeb)
+
 
